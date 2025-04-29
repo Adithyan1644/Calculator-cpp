@@ -33,7 +33,12 @@ The calculator has been verified with these test cases:
 | 7         | 100     | %        | 30      | 30 (100% of 30)       |
 | 8         | 5       | $        | 2       | Invalid operator!     |
 
-## How to Verify
-1. Compile and run the program:
-```bash
-g++ calculator.cpp -o calculator && ./calculator
+
+This table:
+1. Shows both valid and invalid operations
+2. Includes all supported operators (including new %)
+3. Demonstrates error handling
+4. Shows decimal number handling
+5. Provides clear input/output examples
+
+You can add more test cases by following the same format! 😊
